@@ -4,7 +4,7 @@
 
 Meu nome é Pedro Ailton Feitosa, tenho 17 anos e sou natural de Fortaleza - Ceará. E sou técnico em Desenvolvimento de Sistemas.
 
-Sou desenvolvedor fullstack apaixonado por tecnologia e por resolver problemas reais com software. Tenho experiência tanto no front-end quanto no back-end de sitemas web e mobile, além de criação e manutenção de banco de dados. Com experiência em linguagens como HTML, CSS, JavaScript, Python, Node.js e Typescript e utilizando frameworks modernos como React e React Native. Acredito no aprendizado contínuo, boas práticas de desenvolvimento e na força da colaboração. Gosto de escrever código limpo e aprender constantemente com a comunidade.
+Sou desenvolvedor fullstack apaixonado por tecnologia e por resolver problemas reais com software. Tenho experiência tanto no front-end quanto no back-end de sitemas web e mobile, além de criação e manutenção de banco de dados. Com experiência em linguagens como HTML, CSS, JavaScript, Python, Node.js, Typescript, C, C++ e utilizando frameworks modernos como React e React Native. Acredito no aprendizado contínuo, boas práticas de desenvolvimento e na força da colaboração. Gosto de escrever código limpo e aprender constantemente com a comunidade.
 
 
 ---
@@ -112,4 +112,5 @@ Sou desenvolvedor fullstack apaixonado por tecnologia e por resolver problemas r
 
 
 ---
+
 
